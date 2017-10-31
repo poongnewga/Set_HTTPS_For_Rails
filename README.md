@@ -4,8 +4,6 @@ Author : 채희재
 
 ✉️  poongnewga@gmail.com
 
-📱 010-3375-4005
-
 ---
 
 # HTTPS 적용하기
@@ -346,8 +344,6 @@ Author : 채희재
 출처 : 필자 본인, Digitalocean : https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04
 
 ✉️  poongnewga@gmail.com
-
-📱 010-3375-4005
 
 ------
 
