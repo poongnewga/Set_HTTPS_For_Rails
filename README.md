@@ -202,7 +202,7 @@ sudo systemctl reload nginx
 
 
 
-![스크린샷 2017-10-07 오후 3.59.01](/Users/heeham/Desktop/screenshots/스크린샷 2017-10-07 오후 3.59.01.png)
+![grade](./grade.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -319,7 +319,7 @@ sudo service nginx restart
 
 # BAAM!!
 
-![스크린샷 2017-10-07 오후 4.43.41](/Users/heeham/Desktop/screenshots/스크린샷 2017-10-07 오후 4.43.41.png)
+![result.png](./result.png)
 
 
 
